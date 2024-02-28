@@ -2,13 +2,13 @@
 //console.log(tinderUser); 
 const tinderUser = {}// non singleton
 tinderUser.id= "E123"
-tinderUser.name="Hironmoy"
+tinderUser.name="Hiro"
 tinderUser.isLoggedIn="true"
 
 //console.log(tinderUser); 
 
 const regularUser= {
-    email:"hirom69@gmail.com",
+    email:"h69@gmail.com",
     fullname:{
         userFullName:{
             firstName:"Priya",

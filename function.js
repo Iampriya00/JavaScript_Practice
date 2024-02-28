@@ -1,5 +1,5 @@
 function helloMe() {
-    console.log("i love you baby");
+    console.log("i");
 }
 //helloMe()
 
