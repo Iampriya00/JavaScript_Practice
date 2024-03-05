@@ -36,3 +36,5 @@ let a3=[9,8,7,6,5,4,3,3,2]
 
 let a4 = a1.concat(a2,a3) 
 console.log(a4);
+//array_loop
+
